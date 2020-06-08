@@ -1,0 +1,21 @@
+#' This work was commissioned by the Ministry of Health, Welfare and Sport in the Netherlands.
+#' The accompanying report was published under the name "Onderzoek Machine Learning in de Risicoverevening" on May 29th 2020.
+#' This code was published on GitHub on June 10th 2020.
+#' This work is protected by copyright.
+#' For questions contact:
+#' i2i B.V.
+#' info@i2i.eu
+
+Version: 1.0
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
