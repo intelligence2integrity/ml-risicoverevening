@@ -70,5 +70,4 @@ modellen in de tabel met testscores.
 
 # Disclaimer
 
-Op dit werk berust auteursrecht (zie boven). i2i B.V. geeft geen garanties op beschikbaarheid, actualiteit en continuïteit van de broncode. i2i B.V. is niet verantwoordelijk voor eventuele (financiële) gevolgen voor het indirecte en directe gebruik van
-de broncode. i2i B.V. aanvaardt geen aansprakelijkheid voor gevolgen door onjuistheden in de broncode. 
+Op dit werk berust auteursrecht (zie boven). i2i B.V. en de opdrachtgever (het Ministerie van VWS) geven geen garanties op beschikbaarheid, actualiteit en continuïteit van de broncode. i2i B.V. en de opdrachtgever zijn niet verantwoordelijk voor eventuele (financiële) gevolgen van het directe of indirecte gebruik van de broncode. i2i B.V. en de opdrachtgever aanvaarden geen aansprakelijkheid voor gevolgen door onjuistheden in de broncode. 
